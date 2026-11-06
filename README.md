@@ -13,7 +13,7 @@ A lightweight script designed to automate and complete Discord Quests (such as v
 
 ## How to Use
 
-1. Open **Discord** (preferably the desktop application).
+1. Install **Discord PTB** (https://ptb.discord.com/).
 2. Go to your **Quests** tab and click **Accept** on the quest you want to complete.
 3. Open the Developer Console:
    - **Windows:** `Ctrl + Shift + I`
